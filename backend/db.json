@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Aline castro",
       "email": "castro@.com.br"
+    },
+    {
+      "name": "Joao",
+      "email": "j@hotmail.com",
+      "id": 3
     }
   ]
 }
