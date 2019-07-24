@@ -1,9 +1,9 @@
-#Com em React
+# Com em React
 
-##iniciar frontend
-  npm i
-  npm start
+## iniciar frontend
+    npm i
+    npm start
   
-##iniciar backend
+## iniciar backend
   npm start
 
